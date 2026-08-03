@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MazKionkTea
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking everyone who want to teach me
 - 📫 How to reach me on telegram @MazKionkTea
 
